@@ -1,6 +1,6 @@
 <Div align='center'>
   
- ![](https://github.com/Waleed-Altaher/Waleed-Altaher/blob/main/66774590_2317071468361240_8753213129581658112_n.jpg)
+ ![](https://github.com/Waleed-Altaher/Waleed-Altaher/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 </div>
 
 ### Hi there 👋
