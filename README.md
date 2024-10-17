@@ -16,4 +16,8 @@ Skills: Python, PowerBi, Excel, SQL, ETL, informatica, SSIS, DWH.
     <img src="https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Project%20Screenshots/Gif%20Dashboard.gif" alt="Demo GIF" width="300"/>
 </a>
 
+<a href="https://github.com/Waleed-Altaher/Power-bi-Emergency-Room-Healthcare-Dashboard">
+    <img src="https://github.com/Waleed-Altaher/Power-bi-Emergency-Room-Healthcare-Dashboard/blob/main/Dashboard.gif" alt="Demo GIF" width="300"/>
+</a>
+
 
