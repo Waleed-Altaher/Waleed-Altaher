@@ -11,3 +11,9 @@ So far, I've created (and continuing to improve) a end-to-end data engineering p
 
 Skills: Python, PowerBi, Excel, SQL, ETL, informatica, SSIS, DWH.
 
+### Examples of Projects: 
+<a href="https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/tree/main">
+    <img src="https://github.com/Waleed-Altaher/HR-Attrition-Excel-dashboard/blob/main/Project%20Screenshots/Gif%20Dashboard.gif" alt="Demo GIF" width="300"/>
+</a>
+
+
